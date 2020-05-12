@@ -1,4 +1,4 @@
-package com.aprender.spanish;
+package com.aplanetbit.learn.spanish;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -18,11 +18,16 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.ShareActionProvider;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.apptracker.android.track.AppTracker;
+import com.facebook.ads.AdSize;
+import com.facebook.ads.AdView;
+import com.facebook.ads.AudienceNetworkAds;
+import com.facebook.ads.*;
 import com.flurry.android.FlurryAgent;
 
 import java.util.Locale;
@@ -99,27 +104,10 @@ public class AprenderSpanish extends Activity implements OnInitListener {
     @Override
     protected void onResume() {
         super.onResume();
-
-        Presage.getInstance().adToServe("interstitial", new IADHandler() {
-
-            @Override
-            public void onAdNotFound() {
-            // Para LeadBolt
-                AppTracker.loadModule(getApplicationContext(), "inapp");
-
-            }
-
-            @Override
-            public void onAdFound() {
-                Log.i("PRESAGE", "ad found");
-            }
-
-            @Override
-            public void onAdClosed() {
-                Log.i("PRESAGE", "ad closed");
-            }
-        });
     }
+
+
+    private AdView adView;
 //Definicion de la interfaz de usuario
 
 
@@ -129,7 +117,23 @@ public class AprenderSpanish extends Activity implements OnInitListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        // Initialize the Audience Network SDK
+        AudienceNetworkAds.initialize(this);
 
+        // Instantiate an AdView object.
+        // NOTE: The placement ID from the Facebook Monetization Manager identifies your App.
+        // To get test ads, add IMG_16_9_APP_INSTALL# to your placement id. Remove this when your app is ready to serve real ads.
+
+        adView = new AdView(this, "1115208538842824_1115208772176134", AdSize.BANNER_HEIGHT_50);
+
+        // Find the Ad Container
+        LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner_container);
+
+        // Add the ad view to your activity layout
+        adContainer.addView(adView);
+
+        // Request an ad
+        adView.loadAd();
 
         Button holaPlayerBtn = (Button)findViewById(R.id.holaPlayerBtn);
         Button buenosdiasPlayerBtn = (Button)findViewById(R.id.buenosdiasPlayerBtn);
@@ -1201,6 +1205,13 @@ public class AprenderSpanish extends Activity implements OnInitListener {
         }
     }
 
+    @Override
+    protected void onDestroy() {
+        if (adView != null) {
+            adView.destroy();
+        }
+        super.onDestroy();
+    }
 
     @Override
     public void onInit(int status) {
