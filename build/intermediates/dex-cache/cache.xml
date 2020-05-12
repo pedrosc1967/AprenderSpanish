@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-98f24be6be5ecb850636cf6b5fa46d7b3409ce69.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-9f462424ad0f21e62942df323e13b855e306632e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-7901a26adef50a6c9d4548ef866c355468db127e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/classes-77db5bdf847f3192912ce948c21c1f05c2638742.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-31f4b2c74ec7be9a6625d86f924b98526e453703.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/classes-82e454a671237e8577c3a4003e2886a9fdc1a39e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/AppTracker-8f8cb41de1f83316ad03a9716c4c8c600bc21b83.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/classes-088fe31e50ee5de4906b99a7ac0918afa0d88e8a.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/classes-072231c52f41c49b9760ea4bfcb225adfcc00f97.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/classes-c3b2a9af2403d8dd65c95b70065637b036345d7d.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-2c7d6e732b18ab040dfdbe973dadbd1d97dd2a77.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6b1ae07e9532f02311f15a2b9961c3b8697558c9.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-87ced32c4de395b15709a43fa7accc9175fd0a4d.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/classes-a60bf002c71de3bf0a24bf827e6ac092082032b7.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/classes-db76705c9207045ff7668e3b7c4e2d7cd26efe38.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-4b066011963d0fd13897831409aad3c70a01062d.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/classes-6672023988a32e1ef81de435f9bf745ea9c698d0.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-318ebaa7c7d434750238df37a8e8aad0c7d0bb1c.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1b7c37125d6ab5b3e96dc208adda6aa86c2e76ed.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/classes-21868ab32f97f188a4bb1b17a19ad3773a924c31.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/AppTracker-4e83b61ef6f80c830e09b375cf8c9a203e30dc79.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-02acb1fcb08e7af464916b6a53e0863804e28093.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/classes-c1ada52bbb5ccb1cb9ac776063b2872e943ccae4.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/classes-333185a0f4b2cf4cc8cfabf1050a53c51ab541bc.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/classes-7e06948ee4858eca8215b93234f00414027dd30d.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-bcce138b958639eb4f37a3f90d9a372de4f03c5b.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-ab127633278b6152a2bc084c799628e5558e4148.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-10f2ec722ae6c4ca3358df1264c549592ec69904.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/libs/presage-lib-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-d88206361622b5c177ff912a220bb14aa1a46862.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/AppTracker-5e423eed44acf2d92c270954047eaee9502be391.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/AppTracker-5baf31baff05e95361f471a12bb594d7a31a860e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-76d7f90c60c7011067d75f88ec96c87033876d06.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-e8fef481f507567df4e4c6855916fa1e266b544a.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/classes-f85874768f0c930846374079329f9fb426707c4a.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/classes-0560df823fbe552806e30d62c3d3733557b20122.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/classes-597273da0c16bbb27f1cfd4b937b5c8d046cfd45.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/classes-d81398b9d9f89d66e194f3c71aeeedabcea6b557.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-cfad2d2adec8744ab0ed0888c55eed484f35c66a.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/AppTracker-5b1bdd8fb1dc4a2d2c4628f389ada32032e86e3e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-4c5dc13c28d9963b9af3952fa9cd4950d0550bff.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/classes-15a327b74b82bf7acbc6d81e6583a31bb28a01ae.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/classes-c60b527bc7817631c8f25052fac8ce8c36118b09.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/classes-94b8a4ba4cac3c8e02060f96a7e492b9bfe7705d.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-33954fbc318fba36988bb79b4fe8e7098785e957.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ce6961f920723faeb13f2c2f1fbdc07a70610cfd.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/classes-6084f9bb0167c04bfbf26ef2ba7d5aa23108267f.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/AppTracker-a977a1d4043a4fa3279c1ea6d669867f29ab2dff.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0577bc24b9c5c6b08cec8007c214b5056309b95e.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/classes-8b293aec7b524db57eb1b034540d1a3146c2d687.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/classes-1147fd6fa6302bd33a550cf456b3f34aec303826.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-a905ce640013785d11018591f67d9c6d8f5db309.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/libs/AppTracker.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/AppTracker-b13b7c4e98067d325891be5f1061b98938fc4ecd.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/classes-db7b471da3276828d289187e26d6a50319abb624.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/Documents/Desarrollo/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a93a60d297d336c026f1628405cc417c672326e7.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/libs/FlurryAnalytics_3.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fb31df526a21837fb7b59f224fccbc5fbbf6273">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-de2070d5c734f498fdbce33b2794a384411f3703.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-5676b7c70cbad8d35322e1d4d66cb7b2ed09ac1a.jar" />
+    </item>
+    <item
+        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/classes-ee79772a71ca25c1266b3a0fc83bc18b64c55aee.jar" />
+    </item>
+
+</items>
