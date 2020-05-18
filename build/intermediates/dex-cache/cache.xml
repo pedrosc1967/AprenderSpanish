@@ -16,25 +16,11 @@
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-9f462424ad0f21e62942df323e13b855e306632e.jar" />
     </item>
     <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-7901a26adef50a6c9d4548ef866c355468db127e.jar" />
-    </item>
-    <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="a78183f30e769a98ab4820794f597763088d3065">
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/classes-77db5bdf847f3192912ce948c21c1f05c2638742.jar" />
-    </item>
-    <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-31f4b2c74ec7be9a6625d86f924b98526e453703.jar" />
     </item>
     <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
@@ -72,13 +58,6 @@
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/classes-c3b2a9af2403d8dd65c95b70065637b036345d7d.jar" />
     </item>
     <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-2c7d6e732b18ab040dfdbe973dadbd1d97dd2a77.jar" />
-    </item>
-    <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAleman/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -105,13 +84,6 @@
         revision="22.0.1"
         sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/classes-db76705c9207045ff7668e3b7c4e2d7cd26efe38.jar" />
-    </item>
-    <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-4b066011963d0fd13897831409aad3c70a01062d.jar" />
     </item>
     <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
@@ -149,13 +121,6 @@
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/AppTracker-4e83b61ef6f80c830e09b375cf8c9a203e30dc79.jar" />
     </item>
     <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-02acb1fcb08e7af464916b6a53e0863804e28093.jar" />
-    </item>
-    <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -184,25 +149,11 @@
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/FlurryAnalytics_3.3.2-bcce138b958639eb4f37a3f90d9a372de4f03c5b.jar" />
     </item>
     <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderFrances/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-ab127633278b6152a2bc084c799628e5558e4148.jar" />
-    </item>
-    <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChinoHD/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-10f2ec722ae6c4ca3358df1264c549592ec69904.jar" />
-    </item>
-    <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderChino/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-d88206361622b5c177ff912a220bb14aa1a46862.jar" />
     </item>
     <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderSpanish/app/libs/AppTracker.jar"

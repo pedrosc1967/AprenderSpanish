@@ -639,6 +639,7 @@
 
         </LinearLayout>
     </ScrollView>
+
     <LinearLayout
         android:id="@+id/banner_container"
         android:layout_width="match_parent"

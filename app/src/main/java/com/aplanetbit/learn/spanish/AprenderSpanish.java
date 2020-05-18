@@ -23,18 +23,11 @@ import android.widget.ShareActionProvider;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.apptracker.android.track.AppTracker;
 import com.facebook.ads.AdSize;
 import com.facebook.ads.AdView;
 import com.facebook.ads.AudienceNetworkAds;
 import com.facebook.ads.*;
-import com.flurry.android.FlurryAgent;
-
 import java.util.Locale;
-
-import io.presage.Presage;
-import io.presage.utils.IADHandler;
-
 import static android.content.Intent.ACTION_VIEW;
 
 public class AprenderSpanish extends Activity implements OnInitListener {
@@ -81,7 +74,6 @@ public class AprenderSpanish extends Activity implements OnInitListener {
                 startActivity(new Intent(ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id="+getString(R.string.paquete)) ) );
                 return true;
             case R.id.Salir:
-                FlurryAgent.onEndSession(this);
                 this.finish();
                 return true;
             case R.id.Acerca:
@@ -212,8 +204,6 @@ public class AprenderSpanish extends Activity implements OnInitListener {
         checkIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
         startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
 
-//Id de Flurry	
-        FlurryAgent.onStartSession(this, getString(R.string.flurry));
 
 
 //Lo que hace el bot�n "Hola"
